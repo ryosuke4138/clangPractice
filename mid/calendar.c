@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <math.h>
-
+#include <time.h>
 
 int mday[12] = {31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};
 
@@ -17,6 +17,7 @@ int main(void)
 {
 	int y, m;
 
+	putchar('\n');
 	return 0;
 }
 

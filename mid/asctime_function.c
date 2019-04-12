@@ -8,6 +8,6 @@ int main(void){
 
     printf("current date and time: %s", asctime(localtime(&current)));
     printf("current local date and time: %s", ctime(&current));
-    
+
     return(0);
 }
