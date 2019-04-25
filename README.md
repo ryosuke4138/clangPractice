@@ -1,1 +1,1 @@
-# clangPractice
+# clang
